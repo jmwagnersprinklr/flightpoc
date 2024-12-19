@@ -1,1 +1,37 @@
-
+{
+  "flightNumber": [
+    {
+      "id": 1234567,
+      "flightDate": "12/26/2024",
+      "flightStatus": "Significantly Delayed",
+      "rebookingStatus": "Declined",
+      "refundAmount": "160.00 Dollars"
+    },
+    {
+      "id": 2234567,
+      "flightDate": "12/26/2024",
+      "flightStatus": "On Time",
+      "rebookingStatus": "N/A",
+      "refundAmount": "0.00 Dollars"
+    },
+    {
+      "id": 3234567,
+      "flightDate": "12/26/2024",
+      "flightStatus": "Significantly Delayed",
+      "rebookingStatus": "Declined",
+      "refundAmount": "360.00 Dollars"
+    }
+      ],
+      "bagClaimNumber": [
+        {
+          "baggageClaimNumber": "A123456789",
+          "baggageStatus": "Delayed",
+          "referenceNumber": "ORD12345M"
+        },
+        {
+          "baggageClaimNumber": "A234567890",
+          "baggageStatus": "On Time",
+          "referenceNumber": "ORD2345M"
+        }
+      ]
+}
