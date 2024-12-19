@@ -20,6 +20,20 @@
       "flightStatus": "Significantly Delayed",
       "rebookingStatus": "Declined",
       "refundAmount": "360.00 Dollars"
+    },
+    {
+      "bagClaimNumber": [
+        {
+          "baggageClaimNumber": "A123456789",
+          "baggageStatus": "Delayed",
+          "referenceNumber": "ORD12345M"
+        },
+        {
+          "baggageClaimNumber": "A234567890",
+          "baggageStatus": "On Time",
+          "referenceNumber": "ORD2345M"
+        }
+      ]
     }
   ],
   "profile": {
