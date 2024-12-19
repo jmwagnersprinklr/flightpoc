@@ -24,11 +24,13 @@
       ],
       "bagClaimNumber": [
         {
+          "id": 3234567,
           "baggageClaimNumber": "A123456789",
           "baggageStatus": "Delayed",
           "referenceNumber": "ORD12345M"
         },
         {
+          "id": 1234567,
           "baggageClaimNumber": "A234567890",
           "baggageStatus": "On Time",
           "referenceNumber": "ORD2345M"
